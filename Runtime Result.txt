@@ -1,0 +1,9 @@
+Results:
+
+Runtime on machine for N=103 and dt=0.0009
+
+0.189032 sec
+
+Runtime on machine for N=1003 and dt=0.00009
+
+15.621452 sec
